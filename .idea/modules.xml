@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/ThucHanhModelBox/ThucHanhModelBox.iml" filepath="$PROJECT_DIR$/ThucHanhModelBox/ThucHanhModelBox.iml" />
       <module fileurl="file://$PROJECT_DIR$/ThucHanhTaoBoCuc/ThucHanhTaoBoCuc.iml" filepath="$PROJECT_DIR$/ThucHanhTaoBoCuc/ThucHanhTaoBoCuc.iml" />
       <module fileurl="file://$PROJECT_DIR$/ThucHanhTaoMenuDoc/ThucHanhTaoMenuDoc.iml" filepath="$PROJECT_DIR$/ThucHanhTaoMenuDoc/ThucHanhTaoMenuDoc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThucHanhTaoMenuNgang/ThucHanhTaoMenuNgang.iml" filepath="$PROJECT_DIR$/ThucHanhTaoMenuNgang/ThucHanhTaoMenuNgang.iml" />
     </modules>
   </component>
 </project>
