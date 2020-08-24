@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BaiTapLayout/BaiTapLayout.iml" filepath="$PROJECT_DIR$/BaiTapLayout/BaiTapLayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/ThietKeBoCuc.iml" filepath="$PROJECT_DIR$/ThietKeBoCuc.iml" />
       <module fileurl="file://$PROJECT_DIR$/ThucHanhFixedHeaderFooter/ThucHanhFixedHeaderFooter.iml" filepath="$PROJECT_DIR$/ThucHanhFixedHeaderFooter/ThucHanhFixedHeaderFooter.iml" />
       <module fileurl="file://$PROJECT_DIR$/ThucHanhModelBox/ThucHanhModelBox.iml" filepath="$PROJECT_DIR$/ThucHanhModelBox/ThucHanhModelBox.iml" />
